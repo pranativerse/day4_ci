@@ -16,7 +16,7 @@ function App() {
       <main>
         <section className="hero" id="home">
           <div className="hero-content">
-            <p className="tag">🚀 React + CI Demo</p>
+            <p className="tag">🚀 React + CI_CD Demo</p>
 
             <h1>
               Build. Test. <span>Deploy.</span>
